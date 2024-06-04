@@ -29,6 +29,9 @@ git checkout (nome da branch)
 git checkout -b (nome da branch)
     - Criar uma nova branch a partir da branch atual em que estamos
 
+git checkout -d (nome da branch)
+    - Deleta a branch
+
 git remote add (nome) (url)
     - Adiciona um novo repositório remoro
 
